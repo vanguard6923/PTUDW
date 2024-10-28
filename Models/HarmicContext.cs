@@ -89,10 +89,12 @@ public partial class HarmicContext : DbContext
 
             entity.HasOne(d => d.Account).WithMany(p => p.TbBlogs)
                 .HasForeignKey(d => d.AccountId)
+                .OnDelete(DeleteBehavior.ClientSetNull)
                 .HasConstraintName("FK_tb_Blog_tb_Account");
 
             entity.HasOne(d => d.Category).WithMany(p => p.TbBlogs)
                 .HasForeignKey(d => d.CategoryId)
+                .OnDelete(DeleteBehavior.ClientSetNull)
                 .HasConstraintName("FK_tb_Blog_tb_Category");
         });
 

@@ -1,0 +1,124 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\PhattrienUngDungWebThuchanh\\harmic\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DF52572E-AFED-42F8-84C5-D2B173E6A3B1}|Harmic.csproj|e:\\phattrienungdungwebthuchanh\\harmic\\viewcomponents\\blogviewcomponent.cs .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF52572E-AFED-42F8-84C5-D2B173E6A3B1}|Harmic.csproj|solutionrelative:viewcomponents\\blogviewcomponent.cs .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF52572E-AFED-42F8-84C5-D2B173E6A3B1}|Harmic.csproj|e:\\phattrienungdungwebthuchanh\\harmic\\viewcomponents\\productviewcomponent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF52572E-AFED-42F8-84C5-D2B173E6A3B1}|Harmic.csproj|solutionrelative:viewcomponents\\productviewcomponent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF52572E-AFED-42F8-84C5-D2B173E6A3B1}|Harmic.csproj|e:\\phattrienungdungwebthuchanh\\harmic\\views\\shared\\components\\blog\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DF52572E-AFED-42F8-84C5-D2B173E6A3B1}|Harmic.csproj|solutionrelative:views\\shared\\components\\blog\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF52572E-AFED-42F8-84C5-D2B173E6A3B1}|Harmic.csproj|e:\\phattrienungdungwebthuchanh\\harmic\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DF52572E-AFED-42F8-84C5-D2B173E6A3B1}|Harmic.csproj|solutionrelative:views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF52572E-AFED-42F8-84C5-D2B173E6A3B1}|Harmic.csproj|e:\\phattrienungdungwebthuchanh\\harmic\\models\\harmiccontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF52572E-AFED-42F8-84C5-D2B173E6A3B1}|Harmic.csproj|solutionrelative:models\\harmiccontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF52572E-AFED-42F8-84C5-D2B173E6A3B1}|Harmic.csproj|e:\\phattrienungdungwebthuchanh\\harmic\\views\\shared\\components\\product\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DF52572E-AFED-42F8-84C5-D2B173E6A3B1}|Harmic.csproj|solutionrelative:views\\shared\\components\\product\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 135,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BlogViewComponent.cs .cs",
+              "DocumentMoniker": "E:\\PhattrienUngDungWebThuchanh\\harmic\\ViewComponents\\BlogViewComponent.cs .cs",
+              "RelativeDocumentMoniker": "ViewComponents\\BlogViewComponent.cs .cs",
+              "ToolTip": "E:\\PhattrienUngDungWebThuchanh\\harmic\\ViewComponents\\BlogViewComponent.cs .cs",
+              "RelativeToolTip": "ViewComponents\\BlogViewComponent.cs .cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-27T04:24:55.996Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ProductViewComponent.cs",
+              "DocumentMoniker": "E:\\PhattrienUngDungWebThuchanh\\harmic\\ViewComponents\\ProductViewComponent.cs",
+              "RelativeDocumentMoniker": "ViewComponents\\ProductViewComponent.cs",
+              "ToolTip": "E:\\PhattrienUngDungWebThuchanh\\harmic\\ViewComponents\\ProductViewComponent.cs",
+              "RelativeToolTip": "ViewComponents\\ProductViewComponent.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-20T05:37:04.556Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "HarmicContext.cs",
+              "DocumentMoniker": "E:\\PhattrienUngDungWebThuchanh\\harmic\\Models\\HarmicContext.cs",
+              "RelativeDocumentMoniker": "Models\\HarmicContext.cs",
+              "ToolTip": "E:\\PhattrienUngDungWebThuchanh\\harmic\\Models\\HarmicContext.cs",
+              "RelativeToolTip": "Models\\HarmicContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-27T04:17:54.479Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Default.cshtml",
+              "DocumentMoniker": "E:\\PhattrienUngDungWebThuchanh\\harmic\\Views\\Shared\\Components\\Blog\\Default.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\Components\\Blog\\Default.cshtml",
+              "ToolTip": "E:\\PhattrienUngDungWebThuchanh\\harmic\\Views\\Shared\\Components\\Blog\\Default.cshtml",
+              "RelativeToolTip": "Views\\Shared\\Components\\Blog\\Default.cshtml",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAA0AAACdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-27T03:06:47.259Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "E:\\PhattrienUngDungWebThuchanh\\harmic\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Index.cshtml",
+              "ToolTip": "E:\\PhattrienUngDungWebThuchanh\\harmic\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAEYIAAAAAAAAAAAnwFcIAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-20T05:53:03.445Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Default.cshtml",
+              "DocumentMoniker": "E:\\PhattrienUngDungWebThuchanh\\harmic\\Views\\Shared\\Components\\Product\\Default.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\Components\\Product\\Default.cshtml",
+              "ToolTip": "E:\\PhattrienUngDungWebThuchanh\\harmic\\Views\\Shared\\Components\\Product\\Default.cshtml",
+              "RelativeToolTip": "Views\\Shared\\Components\\Product\\Default.cshtml",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAswAcAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-20T05:36:55.134Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

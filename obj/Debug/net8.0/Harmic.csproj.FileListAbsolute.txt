@@ -560,3 +560,4 @@ E:\PhattrienUngDungWebThuchanh\harmic\bin\Debug\net8.0\runtimes\win\lib\net7.0\S
 E:\PhattrienUngDungWebThuchanh\harmic\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Security.Cryptography.ProtectedData.dll
 E:\PhattrienUngDungWebThuchanh\harmic\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Windows.Extensions.dll
 E:\PhattrienUngDungWebThuchanh\harmic\obj\Debug\net8.0\scopedcss\Areas\Admin\Views\Shared\_Layout.cshtml.rz.scp.css
+E:\PhattrienUngDungWebThuchanh\harmic\obj\Debug\net8.0\Harmic.sourcelink.json

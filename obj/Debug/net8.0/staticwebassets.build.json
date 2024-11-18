@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "mpg/bITTZsCw85/4b3qA9q+JvFr7e5rw+2+IHGiCePg=",
+  "Hash": "JJ8FaG01npUn97Lu60Vg5V6pI+u6Pvhy2/1v5H/Q+ng=",
   "Source": "Harmic",
   "BasePath": "_content/Harmic",
   "Mode": "Default",
@@ -39630,6 +39630,25 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\assets\\images\\avatar\\2.jpg"
+    },
+    {
+      "Identity": "E:\\PhattrienUngDungWebThuchanh\\harmic\\wwwroot\\assets\\images\\avatar\\ava.jpg",
+      "SourceId": "Harmic",
+      "SourceType": "Discovered",
+      "ContentRoot": "E:\\PhattrienUngDungWebThuchanh\\harmic\\wwwroot\\",
+      "BasePath": "_content/Harmic",
+      "RelativePath": "assets/images/avatar/ava.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\assets\\images\\avatar\\ava.jpg"
     },
     {
       "Identity": "E:\\PhattrienUngDungWebThuchanh\\harmic\\wwwroot\\assets\\images\\banner\\1-1-370x250.jpg",

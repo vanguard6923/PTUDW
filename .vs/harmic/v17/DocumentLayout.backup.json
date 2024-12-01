@@ -1,0 +1,272 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\PhattrienUngDungWebThuchanh\\harmic\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DF52572E-AFED-42F8-84C5-D2B173E6A3B1}|Harmic.csproj|e:\\phattrienungdungwebthuchanh\\harmic\\areas\\admin\\views\\products\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DF52572E-AFED-42F8-84C5-D2B173E6A3B1}|Harmic.csproj|solutionrelative:areas\\admin\\views\\products\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF52572E-AFED-42F8-84C5-D2B173E6A3B1}|Harmic.csproj|e:\\phattrienungdungwebthuchanh\\harmic\\areas\\admin\\views\\products\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DF52572E-AFED-42F8-84C5-D2B173E6A3B1}|Harmic.csproj|solutionrelative:areas\\admin\\views\\products\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF52572E-AFED-42F8-84C5-D2B173E6A3B1}|Harmic.csproj|e:\\phattrienungdungwebthuchanh\\harmic\\areas\\admin\\views\\products\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DF52572E-AFED-42F8-84C5-D2B173E6A3B1}|Harmic.csproj|solutionrelative:areas\\admin\\views\\products\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF52572E-AFED-42F8-84C5-D2B173E6A3B1}|Harmic.csproj|e:\\phattrienungdungwebthuchanh\\harmic\\areas\\admin\\views\\menus\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DF52572E-AFED-42F8-84C5-D2B173E6A3B1}|Harmic.csproj|solutionrelative:areas\\admin\\views\\menus\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF52572E-AFED-42F8-84C5-D2B173E6A3B1}|Harmic.csproj|e:\\phattrienungdungwebthuchanh\\harmic\\areas\\admin\\views\\menus\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DF52572E-AFED-42F8-84C5-D2B173E6A3B1}|Harmic.csproj|solutionrelative:areas\\admin\\views\\menus\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF52572E-AFED-42F8-84C5-D2B173E6A3B1}|Harmic.csproj|e:\\phattrienungdungwebthuchanh\\harmic\\areas\\admin\\views\\menus\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DF52572E-AFED-42F8-84C5-D2B173E6A3B1}|Harmic.csproj|solutionrelative:areas\\admin\\views\\menus\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF52572E-AFED-42F8-84C5-D2B173E6A3B1}|Harmic.csproj|e:\\phattrienungdungwebthuchanh\\harmic\\areas\\admin\\views\\products\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DF52572E-AFED-42F8-84C5-D2B173E6A3B1}|Harmic.csproj|solutionrelative:areas\\admin\\views\\products\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF52572E-AFED-42F8-84C5-D2B173E6A3B1}|Harmic.csproj|e:\\phattrienungdungwebthuchanh\\harmic\\areas\\admin\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF52572E-AFED-42F8-84C5-D2B173E6A3B1}|Harmic.csproj|solutionrelative:areas\\admin\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF52572E-AFED-42F8-84C5-D2B173E6A3B1}|Harmic.csproj|e:\\phattrienungdungwebthuchanh\\harmic\\areas\\admin\\controllers\\menuscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF52572E-AFED-42F8-84C5-D2B173E6A3B1}|Harmic.csproj|solutionrelative:areas\\admin\\controllers\\menuscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF52572E-AFED-42F8-84C5-D2B173E6A3B1}|Harmic.csproj|e:\\phattrienungdungwebthuchanh\\harmic\\areas\\admin\\views\\menus\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DF52572E-AFED-42F8-84C5-D2B173E6A3B1}|Harmic.csproj|solutionrelative:areas\\admin\\views\\menus\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF52572E-AFED-42F8-84C5-D2B173E6A3B1}|Harmic.csproj|e:\\phattrienungdungwebthuchanh\\harmic\\models\\tbmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF52572E-AFED-42F8-84C5-D2B173E6A3B1}|Harmic.csproj|solutionrelative:models\\tbmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF52572E-AFED-42F8-84C5-D2B173E6A3B1}|Harmic.csproj|e:\\phattrienungdungwebthuchanh\\harmic\\areas\\admin\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DF52572E-AFED-42F8-84C5-D2B173E6A3B1}|Harmic.csproj|solutionrelative:areas\\admin\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF52572E-AFED-42F8-84C5-D2B173E6A3B1}|Harmic.csproj|e:\\phattrienungdungwebthuchanh\\harmic\\models\\harmiccontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF52572E-AFED-42F8-84C5-D2B173E6A3B1}|Harmic.csproj|solutionrelative:models\\harmiccontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF52572E-AFED-42F8-84C5-D2B173E6A3B1}|Harmic.csproj|e:\\phattrienungdungwebthuchanh\\harmic\\harmic.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{DF52572E-AFED-42F8-84C5-D2B173E6A3B1}|Harmic.csproj|solutionrelative:harmic.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF52572E-AFED-42F8-84C5-D2B173E6A3B1}|Harmic.csproj|e:\\phattrienungdungwebthuchanh\\harmic\\harmic.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{DF52572E-AFED-42F8-84C5-D2B173E6A3B1}|Harmic.csproj|solutionrelative:harmic.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 135,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "E:\\PhattrienUngDungWebThuchanh\\harmic\\Areas\\Admin\\Views\\Products\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Areas\\Admin\\Views\\Products\\Edit.cshtml",
+              "ToolTip": "E:\\PhattrienUngDungWebThuchanh\\harmic\\Areas\\Admin\\Views\\Products\\Edit.cshtml",
+              "RelativeToolTip": "Areas\\Admin\\Views\\Products\\Edit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-01T09:47:29.072Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ProductsController.cs",
+              "DocumentMoniker": "E:\\PhattrienUngDungWebThuchanh\\harmic\\Areas\\Admin\\Controllers\\ProductsController.cs",
+              "RelativeDocumentMoniker": "Areas\\Admin\\Controllers\\ProductsController.cs",
+              "ToolTip": "E:\\PhattrienUngDungWebThuchanh\\harmic\\Areas\\Admin\\Controllers\\ProductsController.cs",
+              "RelativeToolTip": "Areas\\Admin\\Controllers\\ProductsController.cs",
+              "ViewState": "AgIAADcAAAAAAAAAAAAmwFcAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-01T08:25:06.569Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "E:\\PhattrienUngDungWebThuchanh\\harmic\\Areas\\Admin\\Views\\Products\\Delete.cshtml",
+              "RelativeDocumentMoniker": "Areas\\Admin\\Views\\Products\\Delete.cshtml",
+              "ToolTip": "E:\\PhattrienUngDungWebThuchanh\\harmic\\Areas\\Admin\\Views\\Products\\Delete.cshtml",
+              "RelativeToolTip": "Areas\\Admin\\Views\\Products\\Delete.cshtml",
+              "ViewState": "AgIAACkAAAAAAAAAAAAuwDsAAABOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-01T10:39:59.19Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "E:\\PhattrienUngDungWebThuchanh\\harmic\\Areas\\Admin\\Views\\Menus\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Areas\\Admin\\Views\\Menus\\Edit.cshtml",
+              "ToolTip": "E:\\PhattrienUngDungWebThuchanh\\harmic\\Areas\\Admin\\Views\\Menus\\Edit.cshtml",
+              "RelativeToolTip": "Areas\\Admin\\Views\\Menus\\Edit.cshtml",
+              "ViewState": "AgIAACQAAAAAAAAAAAAAACgAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-30T10:02:08.092Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "E:\\PhattrienUngDungWebThuchanh\\harmic\\Areas\\Admin\\Views\\Menus\\Create.cshtml",
+              "RelativeDocumentMoniker": "Areas\\Admin\\Views\\Menus\\Create.cshtml",
+              "ToolTip": "E:\\PhattrienUngDungWebThuchanh\\harmic\\Areas\\Admin\\Views\\Menus\\Create.cshtml",
+              "RelativeToolTip": "Areas\\Admin\\Views\\Menus\\Create.cshtml",
+              "ViewState": "AgIAADMAAAAAAAAAAAAAACcAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-30T09:19:16.423Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "E:\\PhattrienUngDungWebThuchanh\\harmic\\Areas\\Admin\\Views\\Menus\\Delete.cshtml",
+              "RelativeDocumentMoniker": "Areas\\Admin\\Views\\Menus\\Delete.cshtml",
+              "ToolTip": "E:\\PhattrienUngDungWebThuchanh\\harmic\\Areas\\Admin\\Views\\Menus\\Delete.cshtml",
+              "RelativeToolTip": "Areas\\Admin\\Views\\Menus\\Delete.cshtml",
+              "ViewState": "AgIAACEAAAAAAAAAAAAAADoAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-01T03:30:35.938Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "E:\\PhattrienUngDungWebThuchanh\\harmic\\Areas\\Admin\\Views\\Products\\Index.cshtml",
+              "RelativeDocumentMoniker": "Areas\\Admin\\Views\\Products\\Index.cshtml",
+              "ToolTip": "E:\\PhattrienUngDungWebThuchanh\\harmic\\Areas\\Admin\\Views\\Products\\Index.cshtml",
+              "RelativeToolTip": "Areas\\Admin\\Views\\Products\\Index.cshtml",
+              "ViewState": "AgIAADMAAAAAAAAAAAAAAEcAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-01T08:43:31.482Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "E:\\PhattrienUngDungWebThuchanh\\harmic\\Areas\\Admin\\Views\\Products\\Create.cshtml",
+              "RelativeDocumentMoniker": "Areas\\Admin\\Views\\Products\\Create.cshtml",
+              "ToolTip": "E:\\PhattrienUngDungWebThuchanh\\harmic\\Areas\\Admin\\Views\\Products\\Create.cshtml",
+              "RelativeToolTip": "Areas\\Admin\\Views\\Products\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAIYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-01T09:09:08.088Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "MenusController.cs",
+              "DocumentMoniker": "E:\\PhattrienUngDungWebThuchanh\\harmic\\Areas\\Admin\\Controllers\\MenusController.cs",
+              "RelativeDocumentMoniker": "Areas\\Admin\\Controllers\\MenusController.cs",
+              "ToolTip": "E:\\PhattrienUngDungWebThuchanh\\harmic\\Areas\\Admin\\Controllers\\MenusController.cs",
+              "RelativeToolTip": "Areas\\Admin\\Controllers\\MenusController.cs",
+              "ViewState": "AgIAAC8AAAAAAAAAAAAAADwAAABeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-27T07:07:53.366Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "E:\\PhattrienUngDungWebThuchanh\\harmic\\Areas\\Admin\\Views\\Menus\\Index.cshtml",
+              "RelativeDocumentMoniker": "Areas\\Admin\\Views\\Menus\\Index.cshtml",
+              "ToolTip": "E:\\PhattrienUngDungWebThuchanh\\harmic\\Areas\\Admin\\Views\\Menus\\Index.cshtml",
+              "RelativeToolTip": "Areas\\Admin\\Views\\Menus\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAABEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-30T04:44:55.991Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "TbMenu.cs",
+              "DocumentMoniker": "E:\\PhattrienUngDungWebThuchanh\\harmic\\Models\\TbMenu.cs",
+              "RelativeDocumentMoniker": "Models\\TbMenu.cs",
+              "ToolTip": "E:\\PhattrienUngDungWebThuchanh\\harmic\\Models\\TbMenu.cs",
+              "RelativeToolTip": "Models\\TbMenu.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAwBsAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-01T03:19:05.553Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "E:\\PhattrienUngDungWebThuchanh\\harmic\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "E:\\PhattrienUngDungWebThuchanh\\harmic\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAABUAAAAAAAAAAAApwKsAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-30T05:10:34.286Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "HarmicContext.cs",
+              "DocumentMoniker": "E:\\PhattrienUngDungWebThuchanh\\harmic\\Models\\HarmicContext.cs",
+              "RelativeDocumentMoniker": "Models\\HarmicContext.cs",
+              "ToolTip": "E:\\PhattrienUngDungWebThuchanh\\harmic\\Models\\HarmicContext.cs",
+              "RelativeToolTip": "Models\\HarmicContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-27T07:04:49.006Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Harmic.csproj",
+              "DocumentMoniker": "E:\\PhattrienUngDungWebThuchanh\\harmic\\Harmic.csproj",
+              "RelativeDocumentMoniker": "Harmic.csproj",
+              "ToolTip": "E:\\PhattrienUngDungWebThuchanh\\harmic\\Harmic.csproj",
+              "RelativeToolTip": "Harmic.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-11-27T06:54:00.664Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Harmic",
+              "DocumentMoniker": "E:\\PhattrienUngDungWebThuchanh\\harmic\\Harmic.csproj",
+              "RelativeDocumentMoniker": "Harmic.csproj",
+              "ToolTip": "E:\\PhattrienUngDungWebThuchanh\\harmic\\Harmic.csproj",
+              "RelativeToolTip": "Harmic.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-11-27T06:44:06.386Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

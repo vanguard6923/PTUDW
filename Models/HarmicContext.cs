@@ -150,15 +150,14 @@ public partial class HarmicContext : DbContext
 
         modelBuilder.Entity<TbMenu>(entity =>
         {
-            entity
-                .HasNoKey()
-                .ToTable("tb_Menu");
+            entity.HasKey(e => e.MenuId);
+
+            entity.ToTable("tb_Menu");
 
             entity.Property(e => e.Alias).HasMaxLength(150);
             entity.Property(e => e.CreatedBy).HasMaxLength(150);
             entity.Property(e => e.CreatedDate).HasColumnType("datetime");
             entity.Property(e => e.Description).HasMaxLength(500);
-            entity.Property(e => e.MenuId).ValueGeneratedOnAdd();
             entity.Property(e => e.ModifiedBy).HasMaxLength(150);
             entity.Property(e => e.ModifiedDate).HasColumnType("datetime");
             entity.Property(e => e.Title).HasMaxLength(150);

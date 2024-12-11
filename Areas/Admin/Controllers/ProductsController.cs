@@ -61,7 +61,7 @@ namespace Harmic.Areas.Admin.Controllers
         {
             if (ModelState.IsValid)
             {
-                tbProduct.Alias =  Harmic.Utilities.Function.TitleSlugGenerationAlias(tbProduct.Title);
+                tbProduct.Alias = Harmic.Utilities.Function.TitleSlugGenerationAlias(tbProduct.Title);
                 _context.Add(tbProduct);
                 await _context.SaveChangesAsync();
                 return RedirectToAction(nameof(Index));
@@ -70,32 +70,27 @@ namespace Harmic.Areas.Admin.Controllers
             return View(tbProduct);
         }
 
-		// GET: Admin/Products/Edit/5
-		public async Task<IActionResult> Edit(int? id)
-		{
-			if (id == null)
-			{
-				return NotFound();
-			}
+        // GET: Admin/Products/Edit/5
+        public async Task<IActionResult> Edit(int? id)
+        {
+            if (id == null)
+            {
+                return NotFound();
+            }
 
-			var tbProduct = await _context.TbProducts
-										 .Include(p => p.CategoryProduct)
-										 .FirstOrDefaultAsync(p => p.ProductId == id);
+            var tbProduct = await _context.TbProducts.FindAsync(id);
+            if (tbProduct == null)
+            {
+                return NotFound();
+            }
+            ViewData["CategoryProductId"] = new SelectList(_context.TbProductCategories, "CategoryProductId", "CategoryProductId", tbProduct.CategoryProductId);
+            return View(tbProduct);
+        }
 
-			if (tbProduct == null)
-			{
-				return NotFound();
-			}
-
-			ViewData["CategoryProductId"] = new SelectList(_context.TbProductCategories, "CategoryProductId", "Title", tbProduct.CategoryProductId);
-			return View(tbProduct);
-		}
-
-
-		// POST: Admin/Products/Edit/5
-		// To protect from overposting attacks, enable the specific properties you want to bind to.
-		// For more details, see http://go.microsoft.com/fwlink/?LinkId=317598.
-		[HttpPost]
+        // POST: Admin/Products/Edit/5
+        // To protect from overposting attacks, enable the specific properties you want to bind to.
+        // For more details, see http://go.microsoft.com/fwlink/?LinkId=317598.
+        [HttpPost]
         [ValidateAntiForgeryToken]
         public async Task<IActionResult> Edit(int id, [Bind("ProductId,Title,Alias,CategoryProductId,Description,Detail,Image,Price,PriceSale,Quantity,CreatedDate,CreatedBy,ModifiedDate,ModifiedBy,IsNew,IsBestSeller,UnitInStock,IsActive,Star")] TbProduct tbProduct)
         {

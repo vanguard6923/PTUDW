@@ -36,42 +36,34 @@
 						</div>
 						<!-- /.card-header -->
 						<!-- form start -->
-						
+						<form asp-action="Delete">
 							<div class="card-body">
 								<div class="form-group">
-									<label for="exampleInputEmail1">Tiêu đề:</label>
-									@Html.DisplayFor(model => model.Title)
+									<label class="control-label">Tiêu đề</label>
+									@Html.DisplayFor(Model=>Model.Title)
+								</div><div class="form-group">
+									<label class="control-label">Alias</label>
+									@Html.DisplayFor(Model=>Model.Alias)
+								</div><div class="form-group">
+									<label class="control-label">Mô tả</label>
+									@Html.DisplayFor(Model=>Model.Description)
+								</div><div class="form-group">
+									<label class="control-label">Mức</label>
+									@Html.DisplayFor(Model=>Model.Levels)
+								</div><div class="form-group">
+									<label class="control-label">Menu cha</label>
+									@Html.DisplayFor(Model=>Model.ParentId)
+								</div><div class="form-group">
+									<label class="control-label">Hiện</label>
+									@Html.DisplayFor(Model=>Model.IsActive)
 								</div>
-							<div class="form-group">
-								<label for="exampleInputEmail1">Alias:</label>
-								@Html.DisplayFor(model => model.Alias)
-							</div>
-							<div class="form-group">
-								<label for="exampleInputEmail1">Mô tả:</label>
-								@Html.DisplayFor(model => model.Description)
-							</div>
-							<div class="form-group">
-								<label for="exampleInputEmail1">Mức:</label>
-								@Html.DisplayFor(model => model.Levels)
-							</div>
-							<div class="form-group">
-								<label for="exampleInputEmail1">Menu cha:</label>
-								@Html.DisplayFor(model => model.ParentId)
-							</div>
-							<div class="form-group">
-								<label for="exampleInputEmail1">Hiện:</label>
-								@Html.DisplayFor(model => model.IsActive)
-							</div>
-
-							<form asp-action="Delete">
-								<input type="hidden" asp-for="MenuId" />
-								<input type="submit" value="xóa" class="btn btn-danger" />
-								<button  asp-action="Index" class="btn btn-primary">Quay lại</button>
-							</form>
 							</div>
 							<!-- /.card-body -->
 
-							
+							<div class="card-footer">
+								<button type="submit" class="btn btn-danger">Xóa menu</button>
+								<button asp-action="Index" type="submit" class="btn btn-primary">Quay lại</button>
+							</div>
 						</form>
 					</div>
 					<!-- /.card -->

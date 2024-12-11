@@ -1,8 +1,8 @@
 ﻿@model Harmic.Models.TbProduct
 
 @{
-    ViewData["Title"] = "Delete";
-    Layout = "~/Areas/Admin/Views/Shared/_Layout.cshtml";
+	ViewData["Title"] = "Delete";
+	Layout = "~/Areas/Admin/Views/Shared/_Layout.cshtml";
 }
 
 <div class="content-wrapper">
@@ -36,65 +36,84 @@
 						</div>
 						<!-- /.card-header -->
 						<!-- form start -->
+						<form asp-action="Delete">
+							<div class="card-body">
+								<div class="form-group">
+									<label class="control-label">Tiêu đề</label>
+									@Html.DisplayFor(Model => Model.Title)
+								</div><div class="form-group">
+									<label class="control-label">Alias</label>
+									@Html.DisplayFor(Model => Model.Alias)
+								</div>
+								<div class="form-group">
+									<label class="control-label">Danh mục</label>
+									@Html.DisplayFor(Model => Model.CategoryProduct.Title)
+								</div>
+								<div class="form-group">
+									<label class="control-label">Mô tả</label>
+									@Html.DisplayFor(Model => Model.Description)
+								</div>
+								<div class="form-group">
+									<label class="control-label">Chi tiết</label>
+									@Html.DisplayFor(Model => Model.Detail)
+								</div><div class="form-group">
+									<label class="control-label">Ảnh</label>
+									<img src="/assets/images/product/medium-size/@Html.DisplayFor(modelItem => Model.Image)" width="50" height="50" />
+								</div><div class="form-group">
+									<label class="control-label">Giá</label>
+									@Html.DisplayFor(Model => Model.Price)
+								</div><div class="form-group">
+									<label class="control-label">Giá khuyến mãi</label>
+									@Html.DisplayFor(Model => Model.PriceSale)
+								</div>
+								<div class="form-group">
+									<label class="control-label">Số lượng</label>
+									@Html.DisplayFor(Model => Model.Quantity)
+								</div>
+								<div class="form-group">
+									<label class="control-label">Ngày tạo</label>
+									@Html.DisplayFor(Model => Model.CreatedDate)
+								</div>
+								<div class="form-group">
+									<label class="control-label">Người tạo</label>
+									@Html.DisplayFor(Model => Model.CreatedBy)
+								</div>
+								<div class="form-group">
+									<label class="control-label">Ngày đăng bán</label>
+									@Html.DisplayFor(Model => Model.ModifiedDate)
+								</div>
+								<div class="form-group">
+									<label class="control-label">Người đăng bán</label>
+									@Html.DisplayFor(Model => Model.ModifiedBy)
+								</div>
+								<div class="form-group">
+									<label class="control-label">Mới</label>
+									@Html.DisplayFor(Model => Model.IsNew)
+								</div>
+								<div class="form-group">
+									<label class="control-label">Bán chạy</label>
+									@Html.DisplayFor(Model => Model.IsBestSeller)
+								</div>
+								<div class="form-group">
+									<label class="control-label">Tồn kho</label>
+									@Html.DisplayFor(Model => Model.UnitInStock)
+								</div>
+								<div class="form-group">
+									<label class="control-label">Sao</label>
+									@Html.DisplayFor(Model => Model.Star)
+								</div>
 
-						<div class="card-body">
-							<div class="form-group">
-								<label for="exampleInputEmail1">Tiêu đề:</label>
-								@Html.DisplayFor(model => model.Title)
+								<div class="form-group">
+									<label class="control-label">Hiện</label>
+									@Html.DisplayFor(Model => Model.IsActive)
+								</div>
 							</div>
-							<div class="form-group">
-								<label for="exampleInputEmail1">Alias:</label>
-								@Html.DisplayFor(model => model.Alias)
-							</div>
-							<div class="form-group">
-								<label for="exampleInputEmail1">Mô tả:</label>
-								@Html.DisplayFor(model => model.Description)
-							</div>
-							<div class="form-group">
-								<label for="exampleInputEmail1">Chi tiết:</label>
-								@Html.DisplayFor(model => model.Detail)
-							</div>
-							<div class="form-group">
-								<label for="exampleInputEmail1">Ảnh:</label>
-								@Html.DisplayFor(model => model.Image)
-								<img src="@Html.DisplayFor(model => model.Image)" width="250" hight="250" />
-							</div>
-							<div class="form-group">
-								<label for="exampleInputEmail1">Giá:</label>
-								@Html.DisplayFor(model => model.Price)
-							</div>
-							<div class="form-group">
-								<label for="exampleInputEmail1">Giá giảm:</label>
-								@Html.DisplayFor(model => model.PriceSale)
-							</div>
-							<div class="form-group">
-								<label for="exampleInputEmail1">Số lượng:</label>
-								@Html.DisplayFor(model => model.Quantity)
-							</div>
-							<div class="form-group">
-								<label for="exampleInputEmail1">Mới:</label>
-								@Html.DisplayFor(model => model.IsNew)
-							</div>
-							<div class="form-group">
-								<label for="exampleInputEmail1">Bán chạy:</label>
-								@Html.DisplayFor(model => model.IsBestSeller)
-							</div>
-							<div class="form-group">
-								<label for="exampleInputEmail1">Sao:</label>
-								@Html.DisplayFor(model => model.Star)
-							</div>
-							<div class="form-group">
-								<label for="exampleInputEmail1">Hiện:</label>
-								@Html.DisplayFor(model => model.IsActive)
-							</div>
+							<!-- /.card-body -->
 
-							<form asp-action="Delete">
-								<input type="hidden" asp-for="ProductId" />
-								<input type="submit" value="xóa" class="btn btn-danger" />
-								<button asp-action="Index" class="btn btn-primary">Quay lại</button>
-							</form>
-						</div>
-						<!-- /.card-body -->
+							<div class="card-footer">
+								<button type="submit" class="btn btn-danger">Xóa sản phẩm</button>
+								<button asp-action="Index" type="submit" class="btn btn-primary">Quay lại</button>
+							</div>
 						</form>
 					</div>
 					<!-- /.card -->
